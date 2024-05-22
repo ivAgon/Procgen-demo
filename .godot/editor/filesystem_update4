@@ -1,0 +1,7 @@
+res://RandomWalker/Levels/Test.tscn
+res://RandomWalker/Levels/tileset.tres
+res://RandomWalker/Actors/Enemy.tscn
+res://RandomWalker/Levels/Level.tscn
+res://RandomWalker/Rooms.tscn
+res://RandomWalker/RandomWalker.tscn
+res://RandomWalker/Actors/Player.tscn

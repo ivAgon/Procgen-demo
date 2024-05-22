@@ -1,0 +1,121 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1716359027
+default_env.tres::Environment::-1::1715139035::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1716264180::0::1::::<><>::
+icon.png::CompressedTexture2D::901754519629401151::1715139035::1715139082::1::::<><>::
+icon.svg::CompressedTexture2D::736511090169923376::1715671294::1715671295::1::::<><>::
+::res://addons/::1716263428
+::res://addons/virtual_joystick/::1716263428
+plugin.cfg::TextFile::-1::1715671292::0::1::::<><>::
+virtual_joystick.gd::GDScript::-1::1715671294::0::1::::VirtualJoystick<>Control<>::
+virtual_joystick_icon.png::CompressedTexture2D::260911808592511340::1715671294::1715671295::1::::<><>::
+virtual_joystick_instantiator.gd::GDScript::-1::1715671294::0::1::::<>Control<>::
+virtual_joystick_plugin.gd::GDScript::-1::1715671294::0::1::::<>EditorPlugin<>::
+virtual_joystick_scene.tscn::PackedScene::8038149555967335895::1715671294::0::1::::<><>::res://addons/virtual_joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://addons/virtual_joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://addons/virtual_joystick/textures/joystick_tip_arrows.png
+::res://addons/virtual_joystick/previews/::1716263428
+gitpreview.png::CompressedTexture2D::4269983148252350228::1715671292::1715671295::1::::<><>::
+icon.png::CompressedTexture2D::8955078469945949671::1715671293::1715671295::1::::<><>::
+preview1.png::CompressedTexture2D::1229202559639313417::1715671293::1715671295::1::::<><>::
+preview2.png::CompressedTexture2D::2379206540637418247::1715671293::1715671295::1::::<><>::
+preview3.png::CompressedTexture2D::5909644328680590355::1715671293::1715671295::1::::<><>::
+::res://addons/virtual_joystick/test/::1716263428
+player.gd::GDScript::-1::1715671293::0::1::::<>Sprite2D<>::
+test.tscn::PackedScene::3566301953465693758::1715671293::0::1::::<><>::uid://dmr0fcamx7t56::::res://addons/virtual_joystick/virtual_joystick_scene.tscn<>uid://kq1h264n0gxs::::res://icon.svg<>res://addons/virtual_joystick/test/player.gd
+::res://addons/virtual_joystick/textures/::1716263428
+joystick_base_outline.png::CompressedTexture2D::3288008411285325467::1715671293::1715671295::1::::<><>::
+joystick_tip.png::CompressedTexture2D::3132432681801126628::1715671294::1715671295::1::::<><>::
+joystick_tip_arrows.png::CompressedTexture2D::8548255698028078709::1715671294::1715671295::1::::<><>::
+::res://Common/::1716263429
+assets-prototype.svg::CompressedTexture2D::8544609798831313753::1715139037::1715139082::1::::<><>::
+tileset-prototype.tres::TileSet::1511597010315232641::1715146388::0::1::::<><>::uid://dt0cqfdspvphx::::res://Common/assets-prototype.svg
+::res://Controlls/::1716263429
+icon.svg::CompressedTexture2D::736511090169923376::1715671046::1715671046::1::::<><>::
+README.md::TextFile::-1::1715671043::0::1::::<><>::
+::res://Controlls/addons/::1716263429
+::res://Controlls/addons/virtual_joystick/::1716263429
+plugin.cfg::TextFile::-1::1715671043::0::1::::<><>::
+virtual_joystick.gd::GDScript::-1::1715671045::0::1::::VirtualJoystick<>Control<>::
+virtual_joystick_icon.png::CompressedTexture2D::260911808592511340::1715671045::1715671046::1::::<><>::
+virtual_joystick_instantiator.gd::GDScript::-1::1715671045::0::1::::<>Control<>::
+virtual_joystick_plugin.gd::GDScript::-1::1715671045::0::1::::<>EditorPlugin<>::
+virtual_joystick_scene.tscn::PackedScene::8038149555967335895::1715671046::0::1::::<><>::res://addons/virtual_joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://addons/virtual_joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://addons/virtual_joystick/textures/joystick_tip_arrows.png
+::res://Controlls/addons/virtual_joystick/previews/::1716263429
+gitpreview.png::CompressedTexture2D::4269983148252350228::1715671044::1715671046::1::::<><>::
+icon.png::CompressedTexture2D::8955078469945949671::1715671044::1715671046::1::::<><>::
+preview1.png::CompressedTexture2D::1229202559639313417::1715671044::1715671046::1::::<><>::
+preview2.png::CompressedTexture2D::2379206540637418247::1715671044::1715671046::1::::<><>::
+preview3.png::CompressedTexture2D::5909644328680590355::1715671044::1715671046::1::::<><>::
+::res://Controlls/addons/virtual_joystick/test/::1716263429
+player.gd::GDScript::-1::1715671044::0::1::::<>Sprite2D<>::
+test.tscn::PackedScene::3566301953465693758::1715671044::0::1::::<><>::uid://dmr0fcamx7t56::::res://addons/virtual_joystick/virtual_joystick_scene.tscn<>uid://kq1h264n0gxs::::res://icon.svg<>res://addons/virtual_joystick/test/player.gd
+::res://Controlls/addons/virtual_joystick/textures/::1716263429
+joystick_base_outline.png::CompressedTexture2D::3288008411285325467::1715671045::1715671046::1::::<><>::
+joystick_tip.png::CompressedTexture2D::3132432681801126628::1715671045::1715671046::1::::<><>::
+joystick_tip_arrows.png::CompressedTexture2D::8548255698028078709::1715671045::1715671046::1::::<><>::
+::res://Final/::1716263431
+::res://RandomWalker/::1716269349
+Camera2D.gd::GDScript::-1::1715139039::0::1::::<>Camera2D<>::
+RandomWalker.gd::GDScript::-1::1715139039::0::1::::<>Node2D<>::
+RandomWalker.tscn::PackedScene::8990323465972863661::1716269349::0::1::::<><>::uid://b6dyithfkwp8q::::res://RandomWalker/Levels/Level.tscn<>res://RandomWalker/RandomWalker.gd<>res://RandomWalker/Camera2D.gd<>uid://c6wokvkr46cbh::::res://RandomWalker/Levels/background-hills.svg<>uid://c82vnjhqgpcos::::res://RandomWalker/Levels/background-trees.svg<>uid://dmr0fcamx7t56::::res://Controlls/addons/virtual_joystick/virtual_joystick_scene.tscn<>uid://cfrb75bpw4epe::::res://RandomWalker/Levels/background-gradient.svg
+Rooms.gd::GDScript::-1::1715139039::0::1::::<>Node2D<>::
+Rooms.tscn::PackedScene::1866325575146755654::1716269349::0::1::::<><>::uid://bvew0uroh2hcu::::res://RandomWalker/Actors/Player.tscn<>uid://bvbk1abn8b804::::res://RandomWalker/Actors/Enemy.tscn<>uid://cqv8s40eawu7i::::res://RandomWalker/Levels/tiles.svg<>uid://cd00vubx3rfc7::::res://RandomWalker/Levels/tileset.tres<>res://RandomWalker/Rooms.gd
+::res://RandomWalker/Actors/::1716269349
+Actor.gd::GDScript::-1::1715139039::0::1::::<>CharacterBody2D<>::
+Enemy.gd::GDScript::-1::1715752759::0::1::::<><>::
+Enemy.tscn::PackedScene::3863104380594675179::1716269349::0::1::::<><>::uid://cqv8s40eawu7i::::res://RandomWalker/Levels/tiles.svg<>res://RandomWalker/Actors/Enemy.gd
+Player.gd::GDScript::-1::1715919437::0::1::::<><>::
+Player.tscn::PackedScene::3870025407171702460::1716269349::0::1::::<><>::res://RandomWalker/Actors/Player.gd<>uid://dj703aymvqqgr::::res://RandomWalker/Anims/AnimationSheet.png
+::res://RandomWalker/Anims/::1716263431
+AnimationSheet.png::CompressedTexture2D::7858589696649247853::1715748396::1715748417::1::::<><>::
+::res://RandomWalker/Levels/::1716269349
+background-gradient.svg::CompressedTexture2D::5158999447750487802::1715139039::1715139082::1::::<><>::
+background-hills.svg::CompressedTexture2D::6994980845843074457::1715139039::1715139082::1::::<><>::
+background-trees.svg::CompressedTexture2D::7146110163229103502::1715139039::1715139082::1::::<><>::
+Level.gd::GDScript::-1::1715139039::0::1::::<>Node2D<>::
+Level.tscn::PackedScene::4569940472910625886::1716269349::0::1::::<><>::res://RandomWalker/Levels/Level.gd<>uid://cd00vubx3rfc7::::res://RandomWalker/Levels/tileset.tres
+Test.tscn::PackedScene::5015740151102587992::1716269349::0::1::::<><>::uid://b6dyithfkwp8q::::res://RandomWalker/Levels/Level.tscn<>uid://bvew0uroh2hcu::::res://RandomWalker/Actors/Player.tscn<>uid://bvbk1abn8b804::::res://RandomWalker/Actors/Enemy.tscn
+tiles.svg::CompressedTexture2D::5941252165461452168::1715139039::1715139082::1::::<><>::
+tileset.tres::TileSet::5036573821737871584::1716263522::0::1::::<><>::uid://cqv8s40eawu7i::::res://RandomWalker/Levels/tiles.svg
+::res://RandomwalkerIOS/::1716264186
+::res://RandomwalkerIOS/MoltenVK.xcframework/::1716264186
+::res://RandomwalkerIOS/MoltenVK.xcframework/ios-arm64/::1716264186
+::res://RandomwalkerIOS/MoltenVK.xcframework/ios-arm64_x86_64-maccatalyst/::1716264186
+::res://RandomwalkerIOS/MoltenVK.xcframework/ios-arm64_x86_64-simulator/::1716264186
+::res://RandomwalkerIOS/Procedural Generation Demos/::1716264186
+::res://RandomwalkerIOS/Procedural Generation Demos/dylibs/::1716264181
+::res://RandomwalkerIOS/Procedural Generation Demos/en.lproj/::1716264181
+::res://RandomwalkerIOS/Procedural Generation Demos/Images.xcassets/::1716264186
+::res://RandomwalkerIOS/Procedural Generation Demos/Images.xcassets/AppIcon.appiconset/::1716265084
+Contents.json::JSON::-1::1716264186::0::1::::<><>::
+Icon-40.png::CompressedTexture2D::7396733578489646515::1716264186::1716265084::1::::<><>::
+Icon-58.png::CompressedTexture2D::6639538926894259289::1716264186::1716265084::1::::<><>::
+Icon-60.png::CompressedTexture2D::3002385224892202070::1716264186::1716265084::1::::<><>::
+Icon-76.png::CompressedTexture2D::8954634198378601911::1716264186::1716265084::1::::<><>::
+Icon-80.png::CompressedTexture2D::580260713900723895::1716264186::1716265084::1::::<><>::
+Icon-87.png::CompressedTexture2D::2830475445187122582::1716264186::1716265084::1::::<><>::
+Icon-120.png::CompressedTexture2D::1334622260901589483::1716264186::1716265084::1::::<><>::
+Icon-152.png::CompressedTexture2D::3810036382737787472::1716264186::1716265084::1::::<><>::
+Icon-167.png::CompressedTexture2D::3975854246856403806::1716264186::1716265084::1::::<><>::
+Icon-180.png::CompressedTexture2D::6007497292289264787::1716264186::1716265084::1::::<><>::
+Icon-1024.png::CompressedTexture2D::8860218422397307223::1716264186::1716265084::1::::<><>::
+::res://RandomwalkerIOS/Procedural Generation Demos/Images.xcassets/LaunchImage.launchimage/::1716265084
+Contents.json::JSON::-1::1716264181::0::1::::<><>::
+Default-480h@2x.png::CompressedTexture2D::499662523382787978::1716264187::1716265083::1::::<><>::
+Default-568h@2x.png::CompressedTexture2D::4803334873729569372::1716264187::1716265083::1::::<><>::
+Default-667h@2x.png::CompressedTexture2D::6950038442768871795::1716264187::1716265083::1::::<><>::
+Default-Landscape-736h@3x.png::CompressedTexture2D::6670579518125607023::1716264187::1716265084::1::::<><>::
+Default-Landscape-X.png::CompressedTexture2D::6584131024214402161::1716264186::1716265084::1::::<><>::
+Default-Landscape.png::CompressedTexture2D::8147424412566739036::1716264187::1716265083::1::::<><>::
+Default-Landscape@2x.png::CompressedTexture2D::1779538419228658218::1716264187::1716265084::1::::<><>::
+Default-Portrait-736h@3x.png::CompressedTexture2D::724323461837293714::1716264188::1716265084::1::::<><>::
+Default-Portrait-X.png::CompressedTexture2D::2364406580250161404::1716264188::1716265084::1::::<><>::
+Default-Portrait.png::CompressedTexture2D::3717567202578505500::1716264188::1716265083::1::::<><>::
+Default-Portrait@2x.png::CompressedTexture2D::3034856144935267827::1716264188::1716265084::1::::<><>::
+::res://RandomwalkerIOS/Procedural Generation Demos/Images.xcassets/SplashImage.imageset/::1716264186
+::res://RandomwalkerIOS/Procedural Generation Demos.xcframework/::1716264183
+::res://RandomwalkerIOS/Procedural Generation Demos.xcframework/ios-arm64/::1716264184
+::res://RandomwalkerIOS/Procedural Generation Demos.xcframework/ios-arm64_x86_64-simulator/::1716264182
+::res://RandomwalkerIOS/Procedural Generation Demos.xcodeproj/::1716264188
+::res://RandomwalkerIOS/Procedural Generation Demos.xcodeproj/project.xcworkspace/::1716264181
+::res://RandomwalkerIOS/Procedural Generation Demos.xcodeproj/xcshareddata/::1716264181
+::res://RandomwalkerIOS/Procedural Generation Demos.xcodeproj/xcshareddata/xcschemes/::1716264181
